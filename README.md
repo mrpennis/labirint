@@ -1,0 +1,2 @@
+# labirint
+1
